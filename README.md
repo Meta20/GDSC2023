@@ -1,4 +1,4 @@
-# team15
+# GDSC
 <img src="https://imagizer.imageshack.com/img923/779/V3hpmo.png"/>
 <!-- <div align = center>
 <!-- **[<kbd> <br> :rocket: Install <br> </kbd>][Installation]** 
